@@ -34,7 +34,7 @@ light_grey=(58, 58, 58)
 
 def say(string, badMouth=False):
     if(badMouth):
-        string+=' FUCK YOU!'
+        string+=' Hahah, nice game!'
 
     os.system('say '+'"'+string+'"')
 
